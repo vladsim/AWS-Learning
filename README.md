@@ -42,16 +42,16 @@ Source: https://aws.amazon.com/certification/
 - [] [AWS Certified Advanced Networking - Specialty](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
     
 ### Blogs
-- * [AWS What's New Blog](https://aws.amazon.com/about-aws/whats-new/2021/)
-- * [AWS Blogs](https://aws.amazon.com/blogs/)
+* [AWS What's New Blog](https://aws.amazon.com/about-aws/whats-new/2021/)
+* [AWS Blogs](https://aws.amazon.com/blogs/)
   
 ### Other Blogs
-- * [All Things Distributed - Werner Vogel's Blog](https://www.allthingsdistributed.com/)
-- * [Perspectives - James Hamilton's blog](https://perspectives.mvdirona.com/)
-- * [Architecture Best Practices for Serverless](https://aws.amazon.com/architecture/serverless/)
-- * [Containers from the Couch](https://containersfromthecouch.com/)
-- * [Serverless Land](https://serverlessland.com/)
-- * [CloudCraft.io Blog](https://blog.cloudcraft.co/)
-- * [Off by none - Serverless Newsletter](https://offbynone.io/)
-- * [Last Week in AWS by Corey Quinn](https://www.lastweekinaws.com/blog/)
-- * [Cloudonaut Blog](https://cloudonaut.io/page/1/)
+* [All Things Distributed - Werner Vogel's Blog](https://www.allthingsdistributed.com/)
+* [Perspectives - James Hamilton's blog](https://perspectives.mvdirona.com/)
+* [Architecture Best Practices for Serverless](https://aws.amazon.com/architecture/serverless/)
+* [Containers from the Couch](https://containersfromthecouch.com/)
+* [Serverless Land](https://serverlessland.com/)
+* [CloudCraft.io Blog](https://blog.cloudcraft.co/)
+* [Off by none - Serverless Newsletter](https://offbynone.io/)
+* [Last Week in AWS by Corey Quinn](https://www.lastweekinaws.com/blog/)
+* [Cloudonaut Blog](https://cloudonaut.io/page/1/)
